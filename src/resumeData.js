@@ -1,10 +1,9 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "Saurabh Mhatre",
+  "name": "Scott Fraser",
   "role": "Frontend Developer",
-  "emailid": "Your emailid",
-  "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "emailid": "scottfraserdev@gmail.com",
+  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies. ",
   "socialLinks":[
       {
         "name":"facebook",
@@ -42,18 +41,13 @@ let resumeData = {
   "website":"http://technoetics.in",
   "education":[
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "UniversityName":"Epicodus",
+      "specialization":"C#/JavaScript/React",
+      "MonthOfPassing":"Nov",
+      "YearOfPassing":"2018"
     },
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "UniversityName":"University of Montana",
     }
   ],
   "work":[
@@ -108,7 +102,7 @@ let resumeData = {
   ],
   "testimonials":[
     {
-      "description":"This is a sample testimonial",
+      "description":"Scott is great",
       "name":"Some technical guy"
     },
     {
